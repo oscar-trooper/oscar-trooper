@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Independent Software Developer working from Mexico.
+I'm a Independent Software Developer working from Mexico.
 
 ##### BIO
 
